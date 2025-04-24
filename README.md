@@ -40,11 +40,4 @@ pip install -r requirements.txt
 python3 main.py
 ```
 
-
----
-
-### ✅ After this:
-- Preview the README to confirm formatting
-- Replace `YOUR_USERNAME` when you upload the repo
-- You’re fully GitHub-ready
   
