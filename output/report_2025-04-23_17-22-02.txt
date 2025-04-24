@@ -1,0 +1,30 @@
+IT Governance & Security Audit Report
+==================================================
+Generated: 2025-04-23 17:22:02.792094
+
+System Information:
+--------------------------------------------------
+OS: Darwin
+OS Version: Darwin Kernel Version 24.4.0: Fri Apr 11 18:32:43 PDT 2025; root:xnu-11417.101.15~117/RELEASE_ARM64_T8103
+Architecture: arm64
+Hostname: 10-249-61-93.wireless.oregonstate.edu
+IP Address: 10.249.61.93
+Logged in User: matthew1313
+
+Local Users:
+--------------------------------------------------
+- matthew1313
+
+Security Checks:
+--------------------------------------------------
+Firewall: Firewall is disabled. (State = 0)
+Gatekeeper: assessments enabled
+System Integrity Protection (SIP): System Integrity Protection status: enabled.
+Antivirus: No common antivirus apps found
+
+Password & Lockout Policy:
+--------------------------------------------------
+Raw Policy: No global password policy set
+
+Interpretation:
+⚠️ No global password policy set (potential vulnerability)
