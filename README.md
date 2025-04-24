@@ -47,5 +47,4 @@ python3 main.py
 - Preview the README to confirm formatting
 - Replace `YOUR_USERNAME` when you upload the repo
 - You’re fully GitHub-ready
-
-Let me know when you’re ready to push it all live or want help walking through the git commands!
+  
